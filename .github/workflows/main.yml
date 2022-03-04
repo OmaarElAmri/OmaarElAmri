@@ -24,6 +24,7 @@ jobs:
 
           # Options
           config_padding: 10
+          config_output: png
           user: omaarelamri
           template: classic
           base: header, repositories
