@@ -1,1 +1,1 @@
-![Metrics](/github-metrics.svg)
+![Metrics](/github-metrics.png)
