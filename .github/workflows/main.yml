@@ -23,9 +23,9 @@ jobs:
           token: ${{ secrets.METRICSS }}
 
           # Options
-          config_display: columns
           user: omaarelamri
           template: classic
+          config_display: columns
           base: header, repositories
           config_timezone: Africa/Tunis
           plugin_achievements: yes
