@@ -24,11 +24,9 @@ jobs:
 
           # Options
           config_padding: 10
-          config_output: png
           user: omaarelamri
           template: classic
           base: header, repositories
-          config_display: columns
           config_timezone: Africa/Tunis
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -42,7 +40,7 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 8
+          plugin_languages_limit: 9999999999999999
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
