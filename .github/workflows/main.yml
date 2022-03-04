@@ -25,7 +25,6 @@ jobs:
           user: omaarelamri
           template: classic
           base: header, repositories
-          config_display: columns
           config_timezone: Africa/Tunis
           plugin_achievements: yes
           plugin_achievements_display: compact
