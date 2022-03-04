@@ -14,3 +14,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICSS }}
+          # Options
+          user: omaarelamri
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Africa/Tunis
