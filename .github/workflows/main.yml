@@ -28,7 +28,6 @@ jobs:
           template: classic
           base: header, repositories
           config_timezone: Africa/Tunis
-          config_display: columns
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
