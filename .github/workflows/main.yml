@@ -16,7 +16,7 @@ jobs:
 
           # Options
           user: omaarelamri
-          template: repository
+          template: classic
           base: header, repositories
           config_display: columns
           config_timezone: Africa/Tunis
