@@ -12,7 +12,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-        
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
@@ -25,8 +24,8 @@ jobs:
           # Options
           user: omaarelamri
           template: classic
-          config_display: columns
           base: header, repositories
+          config_display: columns
           config_timezone: Africa/Tunis
           plugin_achievements: yes
           plugin_achievements_display: detailed
@@ -40,7 +39,7 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 9999999999999999
+          plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
