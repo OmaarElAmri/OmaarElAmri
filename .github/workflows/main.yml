@@ -25,7 +25,7 @@ jobs:
           user: omaarelamri
           template: classic
           base: header
-          config_display: columns
+          config_display: large
           config_timezone: Africa/Tunis
           plugin_achievements: yes
           plugin_achievements_display: detailed
@@ -45,7 +45,7 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_repositories: 100
+          plugin_repositories: yes
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
           plugin_repositories_featured: Blasav2
