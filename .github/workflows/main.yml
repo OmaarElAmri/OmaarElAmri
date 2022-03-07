@@ -19,13 +19,13 @@ jobs:
           #  - read:org  (for organization related metrics)
           #  - read:user (for user related data)
           #  - repo      (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICSS }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: omaarelamri
           template: classic
           base: header
-          config_display: large
+          config_display: columns
           config_timezone: Africa/Tunis
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
