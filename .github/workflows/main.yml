@@ -45,7 +45,5 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_repositories: yes
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
-          plugin_repositories_featured: Blasav2
