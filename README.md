@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Omar El Amri</h1>
 <h3 align="center">A passionate Software engineer, Mobile developer 📱</h3> 
 ![Metrics](/github-metrics.svg) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omaarelamri&repo=blasa.v2)](https://github.com/OmaarElAmri/Blasa.v2)
+<br>
 
 
 
