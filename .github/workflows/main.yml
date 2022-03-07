@@ -25,7 +25,7 @@ jobs:
           user: omaarelamri
           template: classic
           base: header
-          config_display: columns
+          config_display: large
           config_timezone: Africa/Tunis
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
