@@ -1183,7 +1183,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.357973990417534 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.442847364818626 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1276,7 +1276,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.74m out of 137m users</span>
+                                    <span class="gh">ranked 1.74m out of 138m users</span>
                                 </div>
                                 <div class="text">Published 29 public repositories</div>
                             </div>
@@ -1430,7 +1430,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 107k out of 137m users</span>
+                                    <span class="gh">ranked 107k out of 138m users</span>
                                 </div>
                                 <div class="text">Followed by 103 users</div>
                             </div>
@@ -1476,7 +1476,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.03m out of 208m repositories</span>
+                                    <span class="gh">ranked 1.03m out of 178m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -1514,7 +1514,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 856k out of 208m repositories</span>
+                                    <span class="gh">ranked 856k out of 178m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 32 stars</div>
                             </div>
